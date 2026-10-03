@@ -1,0 +1,57 @@
+@import url(https://raw.githubusercontent.com/Amphetamined/Theme/main/Main.css);
+
+:root {
+    --hide-chatBtn-nitro: 1;
+    --hide-chatBtn-gif: 0;
+    --hide-chatBtn-sticker: 0;
+    --hide-chatBtn-emoji: 0;
+    --hide-chatBtn-apps: 0;
+    --hide-messageHover: 1;
+    --hide-messageBtnEmojis: 1;
+    --reduce-messageBtns: 0;
+    --keep-voiceChannelBtns: 0;
+    --highlight-focusedChatInput: 0;
+    --unmask-links: 0;
+    --hide-profileEffects: 0;
+    --hide-avatarDecorations: 0;
+    --hide-nameplates: 0;
+    --hide-clanTags: 0;
+    --disable-roleGradients: 0;
+    --hide-reactionAnimations: 0;
+    --serverBar-FolderStyle: 1;
+    --serverBar-Spacing: 17px;
+    --serverBar-IconSize: 100;
+    --background-app: url(Main.jpg);
+    --background-server: url(Server.jpg);
+    --backgroundBrightness-app: 80;
+    --backgroundBrightness-server: 100;
+    --backgroundBlur-app: 0;
+    --backgroundBlur-server: 0;
+    --hide-friendsActivity: 1;
+    --hide-serverBoostStats: 0;
+    --show-sidebarScrollbar: 0;
+    --show-memberListScrollbar: 0;
+    --font: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+:root { --T1Fv: 11 }
+
+:root {
+    --font: "Montserrat Alternates", "Montserrat", sans-serif !important;
+    --font-primary: "Montserrat Alternates", "Montserrat", sans-serif !important;
+    --font-display: "Montserrat Alternates", "Montserrat", sans-serif !important;
+    --font-headline: "Montserrat Alternates", "Montserrat", sans-serif !important;
+    --font-code: "Montserrat Alternates", "Montserrat", sans-serif !important;
+    --fw-thin: 700 !important;
+    --fw-light: 700 !important;
+    --fw-regular: 700 !important;
+    --fw-medium: 700 !important;
+    --fw-semibold: 700 !important;
+    --fw-bold: 700 !important;
+    --fw-extrabold: 700 !important;
+    --fw-heavy: 700 !important;
+}
+
+#app-mount, #app-mount * { font-weight: 700 !important; }
+
+html { font-size: 13px !important; }
